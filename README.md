@@ -1,2 +1,2 @@
-# JavaScript-Desafio-01
+# JavaScript-Calculando el total
 Trabaje con: https://github.com/mariajgg
